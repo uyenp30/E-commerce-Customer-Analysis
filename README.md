@@ -9,22 +9,24 @@ This SQL project analyzes e-commerce transaction data to understand customer beh
 This project aims to leverage SQL to perform deep dives into e-commerce customer transaction data. The primary goal is to uncover actionable insights that can drive targeted marketing campaigns, improve customer retention, and enhance overall business strategy. Specifically, it focuses on answering the following key business questions:
 
 -   **👑 Who are the best customers? (RFM Analysis)**
+
     → Segmenting customers based on their Recency, Frequency, and Monetary value to identify VIPs, at-risk customers, and more, enabling personalized engagement strategies.
 
 -   **💰 What is the Customer Lifetime Value (CLV)?**
+
     → Calculating the long-term value each customer brings to the business, helping to prioritize customer relationship management and resource allocation.
 
 -   **🔄 Do customers keep coming back? (Cohort Analysis)**
+
     → Analyzing customer retention rates over time to understand loyalty, identify critical churn points, and evaluate the effectiveness of retention initiatives.
 
--   **📊 How can these insights be visualized?**
-    → Translating complex SQL analysis into intuitive dashboards (using Tableau) for stakeholders to make informed, data-driven decisions.
+After that, I will translate this complex SQL analysis into intuitive dashboards (using Tableau) for stakeholders to make informed, data-driven decisions.
 
 ---
 
 ## 📁 Dataset
 
--   **Source**: ShopNow E-commerce Orders Dataset
+-   **Source**: ShopNow's E-commerce Orders Dataset
 -   **Rows**: ~5,000 orders from ~500 customers
 -   **Features**:
     -   `order_id`: Unique identifier for each order
